@@ -1,0 +1,6 @@
+{
+  "name": "AspireAI",
+  "description": "Modern AI-powered career assistant, live opportunity finder, government schemes match, resume analyzer, learning hub & healthcare discovery platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
